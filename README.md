@@ -1,117 +1,50 @@
-<!-- Logo Section -->
-<p align="center">
-  <img src="https://onedrive.live.com/download?cid=8CA4D659591852A3&resid=8CA4D659591852A3%21sf2df962ef9c34511adeab258dfea8ff4&authkey=AJHlg2Q"
-       alt="FinGrow Logo"
-       width="160">
-</p>
+# Welcome to your Expo app 👋
 
-<h1 align="center">✨ FinGrow ✨</h1>
-<h3 align="center">Grow your financial knowledge</h3>
+This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Platform-React%20Native-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/AI%20Powered-Yes-purple?style=for-the-badge">
-  <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Hackathon-PTU%20×%20Punjab%20Sind%20Bank-orange?style=for-the-badge">
-</p>
+## Get started
 
-<p align="center"><strong>An AI-powered Financial Literacy & Fraud Awareness App</strong></p>
+1. Install dependencies
 
----
+   ```bash
+   npm install
+   ```
 
-## 🎯 About FinGrow
+2. Start the app
 
-FinGrow is an **AI-powered financial learning + fraud awareness app**, developed during the  
-**PTU × Punjab & Sind Bank Hackathon 2025**.
+   ```bash
+   npx expo start
+   ```
 
-It teaches users how to manage money, avoid frauds, invest smartly, and build financial confidence.
+In the output, you'll find options to open the app in a
 
----
+- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
+- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
+- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
+- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
 
-## ✨ Features
+You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
 
-- **Fraud Simulator** — Phishing, vishing, OTP frauds  
-- **Budget & Goals** — Track spendings & smart alerts  
-- **Investment Lab** — Learn stocks, SIP, MF with virtual money  
-- **Quizzes** — Interactive finance quizzes with certificates  
-- **Real-time Alerts** — Emotional spending & scam detection  
-- **Finance Tutorials** — Videos, guides & micro-lessons  
-- **Calculators** — EMI, SIP, loan, tax  
-- **Languages** — English, Hindi, Punjabi  
+## Get a fresh project
 
----
-
-## 🧰 Tech Stack
-
-| Layer          | Technology        |
-|----------------|-------------------|
-| Frontend       | React Native      |
-| Backend        | FastAPI           |
-| Database       | Supabase          |
-| Auth           | OAuth2 + JWT      |
-| Cloud Hosting  | Google Cloud      |
-| Alerts         | FCM / Twilio      |
-| Finance API    | Alpha Vantage     |
-| Charts         | Recharts          |
-
----
-
-## 📸 Screenshots
-
-> Replace the paths with your GitHub image paths!
-
-<p align="center">
-  <img src="./assets/screenshot1.jpg" width="250">
-  <img src="./assets/screenshot2.jpg" width="250">
-</p>
-
----
-
-## 🚀 Getting Started
+When you're ready, run:
 
 ```bash
-git clone https://github.com/yourusername/FinGrow.git
-cd FinGrow
-npm install
-npm start
-📁 Folder Structure
-arduino
-Copy code
-FinGrow/
-│── app/
-│   ├── components/
-│   ├── screens/
-│   ├── assets/
-│   ├── navigation/
-│   └── styles/
-│
-│── backend/
-│   ├── controllers/
-│   ├── models/
-│   ├── routes/
-│   └── config/
-│
-└── README.md
-📜 License
-This project is licensed under the MIT License.
-See LICENSE file for details.
+npm run reset-project
+```
 
-👥 Contributors
-⭐ Developer
-Surinder Kumar — Lead Developer & UI/UX
+This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
 
-👥 Team Members
-Ridhima Soni
+## Learn more
 
-Vanshika Thakur
+To learn more about developing your project with Expo, look at the following resources:
 
-Ansh
+- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
+- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
 
-🎓 Faculty Coordinator
-Mrs. Sunaina Thappa (HOD CSE, Aman Bhalla Institute)
+## Join the community
 
-🏆 Hackathon
-Built for PTU × Punjab & Sind Bank Hackathon 2025
+Join our community of developers creating universal apps.
 
-❤️ Made With Love
-<p align="center"> <img src="https://img.shields.io/badge/Made%20With-❤️%20by%20Surinder%20Kumar-red?style=for-the-badge"> </p> <p align="center">© 2025 FinGrow — Empowering Financial Literacy</p> ```
+- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
+- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
