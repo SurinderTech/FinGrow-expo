@@ -1,6 +1,6 @@
 <!-- Logo Section -->
 <p align="center">
-  <img src="https://onedrive.live.com/download?cid=8CA4D659591852A3&resid=8CA4D659591852A3%21sf2df962ef9c34511adeab258dfea8ff4&authkey=AJHlg2Q"
+  <img src="https://1drv.ms/i/c/8ca4d659591852a3/IQAult_yw_kRRa3qsljf6o_0AeN6ied8p4sEesN8ro3dEiE?e=WhfAcF"
        alt="FinGrow Logo"
        width="160">
 </p>
@@ -87,7 +87,7 @@ Notifications	FCM / Twilio
 Finance APIs	Alpha Vantage
 Charts	Recharts
 
-📸 Screenshots
+<h1>📸 Screenshots</h1>
 Replace the file names with your actual images
 
 <p align="center"> <img src="./assets/screenshot1.jpg" width="250"> <img src="./assets/screenshot2.jpg" width="250"> </p>
