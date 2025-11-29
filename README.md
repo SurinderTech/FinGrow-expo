@@ -92,7 +92,8 @@ Charts	Recharts
 > Replace the file names with your actual images inside the `assets` folder.
 
 <p align="center">
-  <img src="assets/screenshot1.jpg" width="250" />
+  <img src="https://raw.githubusercontent.com/SurinderTech/FinGrow-expo-/main/WhatsApp%20Image%202025-11-25%20at%2012.38.50_0beb237e.jpg
+" width="250" />
   <img src="assets/screenshot2.jpg" width="250" />
 </p>
 
