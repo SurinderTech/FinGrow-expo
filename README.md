@@ -77,15 +77,15 @@ Expo GitHub → https://github.com/expo
 Discord → https://discord.gg/expo
 
 🧰 Tech Stack
-Layer	Technology
-Frontend	React Native (Expo)
-Backend	Typescript
-Database	Supabase
-Auth	OAuth2 + JWT
-Cloud	Google Cloud
-Notifications	FCM / Twilio
-Finance APIs	Alpha Vantage
-Charts	Recharts
+
+Frontend	           React Native (Expo)
+Backend	             Typescript
+Database	          Supabase
+Auth	              OAuth2 + JWT
+Cloud	              Google Cloud
+Notifications	     FCM / Twilio
+Finance APIs	     Alpha Vantage
+Charts	           Recharts
 
 ## 📸 Screenshots
 
