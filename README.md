@@ -87,17 +87,13 @@ Notifications	FCM / Twilio
 Finance APIs	Alpha Vantage
 Charts	Recharts
 
-# 📸 Screenshots
-
-> Replace the file names with your actual images inside the `assets` folder.
+## 📸 Screenshots
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SurinderTech/FinGrow-expo-/main/WhatsApp%20Image%202025-11-25%20at%2012.38.50_0beb237e.jpg
-" width="250" />
-  <img src="assets/screenshot2.jpg" width="250" />
+  <img src="https://raw.githubusercontent.com/SurinderTech/FinGrow-expo/main/WhatsApp%20Image%202025-11-25%20at%2012.38.50_0beb237e.jpg" width="250"/>
+  <img src="https://raw.githubusercontent.com/SurinderTech/FinGrow-expo/main/WhatsApp%20Image%202025-11-25%20at%2012.38.51_2d1ab61d.jpg" width="250"/>
 </p>
 
----
 
 # 👨‍💻 Developer & Team
 
