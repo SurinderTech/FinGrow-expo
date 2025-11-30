@@ -99,17 +99,15 @@ Charts	Recharts
 
 ## ⭐ Developer
 - **Surinder Kumar**
-
-## 👥 Team Members
 - Ridhima Soni  
 - Vanshika Thakur  
 - Ansh  
 
-## 🎓 Faculty Coordinator
-- **Mrs. Sunaina Thappa (HOD CSE)**
 
 ## 🏆 Hackathon
-Built for **PTU × Punjab & Sind Bank Hackathon 2025**
+Built for
+ ** Punjab Sind Bank * PTU
+ #SafeHackathon 2025**
 
 ---
 
