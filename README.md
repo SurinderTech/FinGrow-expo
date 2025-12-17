@@ -114,7 +114,7 @@ Discord → https://discord.gg/expo
 
 📸 Screenshots & UI Preview
 🔐 Authentication Screens
-<table> <tr> <th>Splash Screen</th> <th>Login Screen</th> <th>Sign Up Screen</th> </tr> <tr> <td><img src="" width="250"/></td> <td><img src="ADD_LOGIN_IMAGE_URL" width="250"/></td> <td><img src="ADD_SIGNUP_IMAGE_URL" width="250"/></td> </tr> </table>
+<table> <tr> <th>Splash Screen</th> <th>Login Screen</th> <th>Sign Up Screen</th> </tr> <tr> <td><img src="WhatsApp Image 2025-11-25 at 12.38.49_906a3eb5.jpg" width="250"/></td> <td><img src="ADD_LOGIN_IMAGE_URL" width="250"/></td> <td><img src="ADD_SIGNUP_IMAGE_URL" width="250"/></td> </tr> </table>
 🏠 Dashboard & Insights
 <table> <tr> <th>Main Dashboard</th> <th>AI Insights</th> <th>Learning CTA</th> </tr> <tr> <td><img src="ADD_DASHBOARD_IMAGE_URL" width="250"/></td> <td><img src="ADD_AI_INSIGHTS_IMAGE_URL" width="250"/></td> <td><img src="ADD_READY_TO_LEARN_IMAGE_URL" width="250"/></td> </tr> </table>
 🧰 Tools & Finance Lab
