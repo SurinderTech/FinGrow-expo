@@ -17,7 +17,7 @@
 
 ---
 
-## 🎯 About FinGrow  
+##<h1>🎯 About FinGrow</h1>
 FinGrow is an **AI-powered financial literacy & fraud awareness** platform developed for the  
 **PTU × Punjab & Sind Bank Hackathon 2025**.  
 It teaches users smart money management, scam detection, budgeting, and investing.
@@ -42,14 +42,24 @@ Welcome to your Expo app 👋
 This project was created with **create-expo-app**.
 
 ### 1️⃣ Install dependencies
-```bash
+
 npm install
+
+
 2️⃣ Start the app
 bash
+
+
 Copy code
+
+
 npx expo start
+
+
 📱 You can run it on:
 Android Emulator
+
+
 
 iOS Simulator
 
@@ -63,29 +73,42 @@ This project uses file-based routing.
 
 🆕 Reset Project
 bash
+
+
 Copy code
+
+
 npm run reset-project
+
+
 This will create a blank app/ directory and move starter code into app-example/.
+
 
 📚 Learn More
 Expo Docs → https://docs.expo.dev
 
+
 Expo Tutorial → https://docs.expo.dev/tutorial
+
 
 Expo GitHub → https://github.com/expo
 
+
 Discord → https://discord.gg/expo
 
-🧰 Tech Stack
+## 🧰 Tech Stack
 
-Frontend	           React Native (Expo)
-Backend	             Typescript
-Database	          Supabase
-Auth	              OAuth2 + JWT
-Cloud	              Google Cloud
-Notifications	     FCM / Twilio
-Finance APIs	     Alpha Vantage
-Charts	           Recharts
+| Category | Technology |
+|--------|-----------|
+| 🎨 Frontend | React Native (Expo) |
+| 🧠 Backend | TypeScript |
+| 🗄️ Database | Supabase |
+| 🔐 Authentication | OAuth2 + JWT |
+| ☁️ Cloud | Google Cloud |
+| 🔔 Notifications | FCM / Twilio |
+| 💰 Finance APIs | Alpha Vantage |
+| 📊 Charts | Recharts |
+
 
 ## 📸 Screenshots
 
