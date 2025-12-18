@@ -39,53 +39,29 @@ It teaches users smart money management, scam detection, budgeting, and investin
 <h1>⚙Architecture</h1>
 <img src="Screenshot (783).png" width="vh"/>
 
-## 🚀 Getting Started (Expo)
+<h1>🚀 Install & Run FinGrow-expo</h1>
 
-Welcome to your Expo app 👋  
-This project was created with **create-expo-app**.
+```
+git clone https://github.com/SurinderTech/FinGrow-expo.git
+```
 
 ### 1️⃣ Install dependencies
 ```
+cd FinGrow-expo
+
+```
+```
 npm install
 ```
-
-2️⃣ Start the app
-bash
-
-
-Copy code
-
-
+```
 npx expo start
+```
 
+### 2️⃣ Run the app
 
-📱 You can run it on:
-Android Emulator
+Scan the QR code with Expo Go on your phone
 
-
-
-iOS Simulator
-
-Expo Go (limited sandbox)
-
-Development Build (recommended)
-
-🗂 Start Development
-Edit files inside the app/ directory.
-This project uses file-based routing.
-
-🆕 Reset Project
-bash
-
-
-Copy code
-
-
-npm run reset-project
-
-
-This will create a blank app/ directory and move starter code into app-example/.
-
+Or open in Android Emulator / iOS Simulator
 
 📚 Learn More
 Expo Docs → https://docs.expo.dev
@@ -113,13 +89,12 @@ Discord → https://discord.gg/expo
 | 📊 Charts | Recharts |
 
 
-## 📸 Screenshots
 
-📸 Screenshots & UI Preview
+### 📸 Screenshots & UI Preview
 🔐 Authentication Screens
 <table> <tr> <th>Splash Screen</th> <th>Login Screen</th> <th>Sign Up Screen</th> </tr> <tr> <td><img src="WhatsApp Image 2025-11-25 at 12.38.49_906a3eb5.jpg" width="250"/></td> <td><img src="WhatsApp Image 2025-11-25 at 12.38.50_0beb237e.jpg" width="250"/></td> <td><img src="WhatsApp Image 2025-11-25 at 12.38.51_2d1ab61d.jpg" width="250"/></td> </tr> </table>
 🏠 Dashboard & Insights
-<table> <tr> <th>Main Dashboard</th> <th>AI Insights</th> <th>Learning CTA</th> </tr> <tr> <td><img src="WhatsApp Image 2025-11-25 at 12.38.51_f636ac5a.jpg" width="250"/></td> <td><img src="WhatsApp Image 2025-11-25 at 12.38.52_82008944.jpg" width="250"/></td> <td><img src="Screenshot (389).png" width="250"/></td> </tr> </table>
+<table> <tr> <th>Main Dashboard</th> <th>AI Insights</th> <th>Profile</th> </tr> <tr> <td><img src="WhatsApp Image 2025-11-25 at 12.38.51_f636ac5a.jpg" width="250"/></td> <td><img src="WhatsApp Image 2025-11-25 at 12.38.52_82008944.jpg" width="250"/></td> <td><img src="Screenshot (389).png" width="250"/></td> </tr> </table>
 🧰 Tools & Finance Lab
 <table> <tr> <th>Tools Hub</th> <th>Expense Tracker</th> <th>Budget Alert</th> </tr> <tr> <td><img src="WhatsApp Image 2025-11-25 at 12.38.53_a5f068d8.jpg" width="250"/></td> <td><img src="WhatsApp Image 2025-11-25 at 12.38.53_f1066858.jpg" width="250"/></td> <td><img src="WhatsApp Image 2025-11-25 at 12.38.54_c720a4b2.jpg" width="250"/></td> </tr> </table>
 Why this is powerful
@@ -133,9 +108,9 @@ Encourages financial discipline
 Simulates real-world money behavior
 
 
-# 👨‍💻 Developer & Team
+# 👨‍💻 Developers
 
-## ⭐ Developer
+
 - **Surinder Kumar**
 - Ridhima Soni  
 - Vanshika Thakur  
@@ -143,6 +118,11 @@ Simulates real-world money behavior
 
 
 ## 🏆 Hackathon
+
+
+https://safehackathon.pages.dev/
+
+
 Built for
  ** Punjab Sind Bank * PTU
  #SafeHackathon 2025**
@@ -151,9 +131,7 @@ Built for
 
 ## ❤️ Made With Love
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Made%20With-Love%20by%20Surinder%20Kumar-red?style=for-the-badge" />
-</p>
+
 
 <p align="center">
   © 2025 FinGrow — Empowering Financial Literacy
