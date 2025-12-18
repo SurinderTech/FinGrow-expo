@@ -37,7 +37,7 @@ It teaches users smart money management, scam detection, budgeting, and investin
 ---
 
 <h1>⚙Architecture</h1>
-<img src="" width="250"/>
+<img src="Screenshot (783).png" width="vh"/>
 
 ## 🚀 Getting Started (Expo)
 
@@ -45,9 +45,9 @@ Welcome to your Expo app 👋
 This project was created with **create-expo-app**.
 
 ### 1️⃣ Install dependencies
-
+```
 npm install
-
+```
 
 2️⃣ Start the app
 bash
