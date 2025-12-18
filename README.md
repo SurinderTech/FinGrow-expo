@@ -118,7 +118,7 @@ Discord → https://discord.gg/expo
 🏠 Dashboard & Insights
 <table> <tr> <th>Main Dashboard</th> <th>AI Insights</th> <th>Learning CTA</th> </tr> <tr> <td><img src="WhatsApp Image 2025-11-25 at 12.38.51_f636ac5a.jpg" width="250"/></td> <td><img src="WhatsApp Image 2025-11-25 at 12.38.52_82008944.jpg" width="250"/></td> <td><img src="WhatsApp Image 2025-11-25 at 12.38.53_a5f068d8.jpg" width="250"/></td> </tr> </table>
 🧰 Tools & Finance Lab
-<table> <tr> <th>Tools Hub</th> <th>Expense Tracker</th> <th>Budget Alert</th> </tr> <tr> <td><img src="ADD_TOOLS_IMAGE_URL" width="250"/></td> <td><img src="ADD_EXPENSE_TRACKER_IMAGE_URL" width="250"/></td> <td><img src="ADD_BUDGET_WARNING_IMAGE_URL" width="250"/></td> </tr> </table>
+<table> <tr> <th>Tools Hub</th> <th>Expense Tracker</th> <th>Budget Alert</th> </tr> <tr> <td><img src="WhatsApp Image 2025-11-25 at 12.38.53_f1066858.jpg" width="250"/></td> <td><img src="ADD_EXPENSE_TRACKER_IMAGE_URL" width="250"/></td> <td><img src="ADD_BUDGET_WARNING_IMAGE_URL" width="250"/></td> </tr> </table>
 Why this is powerful
 
 Alerts users before overspending
