@@ -8,11 +8,18 @@
 <h1 align="center">✨ FinGrow ✨</h1>
 <h3 align="center">AI-Powered Financial Literacy & Fraud Awareness App</h3>
 
+<h1>we built a fintech app for #safeHackathon<h1>
+  
+
 <p align="center">
-  <img src="https://img.shields.io/badge/React%20Native-Expo-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/AI%20Powered-Yes-purple?style=for-the-badge">
-  <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Hackathon-PTU%20×%20Punjab%20Sind%20Bank-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/React%20Native-Expo-blue?style=for-the-badge"><br>
+  <img src="https://img.shields.io/badge/AI%20Powered-Yes-purple?style=for-the-badge"><br>
+  <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge"><br>
+  <img 
+  src="https://img.shields.io/badge/Hackathon-PTU%20×%20Punjab%20Sind%20Bank-orange?style=for-the-badge"
+  width="390"
+/>
+<br>
 </p>
 
 ---
@@ -111,7 +118,7 @@ Simulates real-world money behavior
 # 👨‍💻 Developers
 
 
-- **Surinder Kumar**
+- **Surinder Kumar** (Team Lead)
 - Ridhima Soni  
 - Vanshika Thakur  
 - Ansh  
