@@ -119,9 +119,9 @@ Simulates real-world money behavior
 
 
 - **Surinder Kumar** (Team Lead)
-- Ridhima Soni  
-- Vanshika Thakur  
-- Ansh  
+ Ridhima Soni  
+ Vanshika Thakur  
+ Ansh  
 
 
 ## 🏆 Hackathon
