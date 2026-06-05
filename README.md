@@ -100,9 +100,11 @@ Discord → https://discord.gg/expo
 ### 📸 Screenshots & UI Preview
 **🔐Authentication Screens**
 <table> <tr> <th>Splash Screen</th> <th>Login Screen</th> <th>Sign Up Screen</th> </tr> <tr> <td><img src="WhatsApp Image 2025-11-25 at 12.38.49_906a3eb5.jpg" width="250"/></td> <td><img src="WhatsApp Image 2025-11-25 at 12.38.50_0beb237e.jpg" width="250"/></td> <td><img src="WhatsApp Image 2025-11-25 at 12.38.51_2d1ab61d.jpg" width="250"/></td> </tr> </table>
-🏠 Dashboard & Insights
+
+**🏠Dashboard & Insights**
 <table> <tr> <th>Main Dashboard</th> <th>AI Insights</th> <th>Profile</th> </tr> <tr> <td><img src="WhatsApp Image 2025-11-25 at 12.38.51_f636ac5a.jpg" width="250"/></td> <td><img src="WhatsApp Image 2025-11-25 at 12.38.52_82008944.jpg" width="250"/></td> <td><img src="Screenshot (389).png" width="250"/></td> </tr> </table>
-🧰 Tools & Finance Lab
+
+**🧰Tools & Finance Lab**
 <table> <tr> <th>Tools Hub</th> <th>Expense Tracker</th> <th>Budget Alert</th> </tr> <tr> <td><img src="WhatsApp Image 2025-11-25 at 12.38.53_a5f068d8.jpg" width="250"/></td> <td><img src="WhatsApp Image 2025-11-25 at 12.38.53_f1066858.jpg" width="250"/></td> <td><img src="WhatsApp Image 2025-11-25 at 12.38.54_c720a4b2.jpg" width="250"/></td> </tr> </table>
 Why this is powerful
 
