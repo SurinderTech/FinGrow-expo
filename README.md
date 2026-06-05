@@ -98,7 +98,7 @@ Discord → https://discord.gg/expo
 
 
 ### 📸 Screenshots & UI Preview
-🔐 Authentication Screens
+**🔐Authentication Screens**
 <table> <tr> <th>Splash Screen</th> <th>Login Screen</th> <th>Sign Up Screen</th> </tr> <tr> <td><img src="WhatsApp Image 2025-11-25 at 12.38.49_906a3eb5.jpg" width="250"/></td> <td><img src="WhatsApp Image 2025-11-25 at 12.38.50_0beb237e.jpg" width="250"/></td> <td><img src="WhatsApp Image 2025-11-25 at 12.38.51_2d1ab61d.jpg" width="250"/></td> </tr> </table>
 🏠 Dashboard & Insights
 <table> <tr> <th>Main Dashboard</th> <th>AI Insights</th> <th>Profile</th> </tr> <tr> <td><img src="WhatsApp Image 2025-11-25 at 12.38.51_f636ac5a.jpg" width="250"/></td> <td><img src="WhatsApp Image 2025-11-25 at 12.38.52_82008944.jpg" width="250"/></td> <td><img src="Screenshot (389).png" width="250"/></td> </tr> </table>
