@@ -24,7 +24,7 @@
 
 ---
 
-##<h1>🎯 About FinGrow</h1>
+<h1>🎯 About FinGrow</h1>
 FinGrow is an **AI-powered financial literacy & fraud awareness** platform developed for the  
 **PTU × Punjab & Sind Bank Hackathon 2025**.  
 It teaches users smart money management, scam detection, budgeting, and investing.
