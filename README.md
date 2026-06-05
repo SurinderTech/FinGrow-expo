@@ -110,13 +110,13 @@ Discord → https://discord.gg/expo
 
 <h2> Why this is powerful?</h2>
 
-<h3>2. Alerts users before overspending</h3>
+<h3>1. Alerts users before overspending</h3>
 
-<h3>3. Prevents budget misuse</h3>
+<h3>2. Prevents budget misuse</h3>
 
-<h3>4. Encourages financial discipline</h3>
+<h3>3. Encourages financial discipline</h3>
 
-<h3>5. Simulates real-world money behavior</h3>
+<h3>4. Simulates real-world money behavior</h3>
 
 
 # 👨‍💻 Developers
