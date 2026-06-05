@@ -108,11 +108,11 @@ Discord → https://discord.gg/expo
 <table> <tr> <th>Tools Hub</th> <th>Expense Tracker</th> <th>Budget Alert</th> </tr> <tr> <td><img src="WhatsApp Image 2025-11-25 at 12.38.53_a5f068d8.jpg" width="250"/></td> <td><img src="WhatsApp Image 2025-11-25 at 12.38.53_f1066858.jpg" width="250"/></td> <td><img src="WhatsApp Image 2025-11-25 at 12.38.54_c720a4b2.jpg" width="250"/></td> </tr> </table>
 
 
-<h3>1. Why this is powerful</h1>
+<h2> Why this is powerful?</h2>
 
-<h3>2. Alerts users before overspending</h1>
+<h3>2. Alerts users before overspending</h3>
 
-<h3>3. Prevents budget misuse</h1>
+<h3>3. Prevents budget misuse</h3>
 
 <h3>4. Encourages financial discipline</h3>
 
