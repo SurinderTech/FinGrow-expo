@@ -118,7 +118,7 @@ Simulates real-world money behavior
 # 👨‍💻 Developers
 
 
-- **Surinder Kumar** (Team Lead)
+- **Surinder Kumar** (Team Lead)<br>
  Ridhima Soni  
  Vanshika Thakur  
  Ansh  
